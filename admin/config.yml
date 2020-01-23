@@ -1,5 +1,6 @@
 backend:
   name: github
+  repo: AWinterFox/WinterFox
   branch: master
   site_domain: focused-davinci-087260.netlify.com
 
