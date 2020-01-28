@@ -9,17 +9,5 @@
         "name": "Winter Fox LLC"
     },
     "items": [
-        {
-            "id": "https://awinterfox.github.io/hi.html",
-            "url": "https://awinterfox.github.io/hi.html",
-            "title": "Hi",
-            "author": {
-                "name": "Winter Fox LLC"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-01-28T18:44:12-05:00",
-            "date_modified": "2020-01-28T18:44:12-05:00"
-        }
     ]
 }
